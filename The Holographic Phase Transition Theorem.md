@@ -6,7 +6,7 @@
 
 ## Author Information
 
-**Author:** [erbetal]  
+**Author:** [₿oldwin (@MRicardG)]  
 **Affiliation:** [Independant, Unaffiliated]  
 **Email:** [erbetal@hotmail.com]  
 
