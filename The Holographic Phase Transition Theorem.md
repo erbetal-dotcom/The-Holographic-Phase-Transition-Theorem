@@ -537,15 +537,6 @@ The author thanks [collaborators/advisors] for helpful discussions. This work wa
 
 ---
 
-## Data Availability
-
-All analysis code used in this work is available at:  
-**https://github.com/[username]/k-pi-holographic-theorem**
-
-Mock catalogs and validation scripts are included. The code is released under MIT License.
-
----
-
 ## Appendix A: Complete Mathematical Derivation
 
 [See the separate Appendix A document already generated, which contains:]
