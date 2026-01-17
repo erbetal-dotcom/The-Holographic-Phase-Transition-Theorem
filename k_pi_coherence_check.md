@@ -59,7 +59,7 @@ $$K \equiv \Omega_{\text{eff}} = \pi$$
 
 ### **σ_snap Definition:**
 
-**From your cicgr_early_universe_snap.py:**
+**From cicgr_early_universe_snap.py:**
 ```python
 sigma_snap = K_pi * np.exp(-(r - r_snap)**2 / (2 * width**2))
 ```
