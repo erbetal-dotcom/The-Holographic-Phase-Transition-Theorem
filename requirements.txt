@@ -1,0 +1,16 @@
+# Python version
+python>=3.8
+
+# Scientific computing
+numpy>=1.23.0
+scipy>=1.9.0
+
+# Plotting (if figures are generated in notebooks or scripts)
+matplotlib>=3.5.0
+
+# Optional: data handling and convenience libraries
+pandas>=1.5.0
+
+# Optional: enhanced interactive shells (if used)
+ipython>=8.0.0
+jupyter>=1.0.0
