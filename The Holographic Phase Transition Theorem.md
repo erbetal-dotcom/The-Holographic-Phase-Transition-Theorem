@@ -533,52 +533,7 @@ The theorem is:
 
 ## Acknowledgments
 
-The author thanks [collaborators/advisors] for helpful discussions. This work was supported by [funding sources]. Analysis code is publicly available at [GitHub repository].
-
----
-
-## Appendix A: Complete Mathematical Derivation
-
-[See the separate Appendix A document already generated, which contains:]
-
-1. Spherical harmonic decomposition (Section A.1)
-2. Radial coupling constraint proof (Section A.2)  
-3. Causal sector analysis (Section A.3)
-4. Derivation of K = π (Section A.4)
-5. Uniqueness theorem (Section A.5)
-6. Invariance proofs (Section A.6)
-7. Connection to observable predictions (Section A.7)
-
----
-
-## Appendix B: Statistical Methods for Euclid DR1
-
-[Include methods from Whitepaper 2:]
-
-1. Velocity residual calculation
-2. Dipole filtering (Shapley alignment)
-3. Transition width measurement  
-4. MCMC model comparison
-5. Bayes Factor computation
-6. Systematic error budget
-
----
-
-## Appendix C: Mock Data Validation
-
-**Test scenarios:**
-1. Null (ΛCDM): v_residual ~ N(0, 522 km/s)
-2. Gradient: v_residual = 5(r - 600) + noise
-3. Step: v_residual = 3528 × Θ(r - 600) + noise
-
-**Recovery success rates (50k galaxies):**
-- Null identified: 98%
-- Gradient identified: 95%  
-- Step identified: 99%
-
-**Parameter recovery precision:**
-- r_boundary: ±2 Mpc (1σ)
-- v_snap: ±50 km/s (1σ)
+The author thanks [collaborators/advisors] for helpful discussions. This work was supported by [LLMs].
 
 ---
 
