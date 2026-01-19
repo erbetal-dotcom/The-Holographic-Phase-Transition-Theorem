@@ -6,14 +6,13 @@
 
 ## Author Information
 
-**Author:** [₿oldwin (@MRicardG)]  
+**Author:** [Michael Ricard]  
 **Affiliation:** [Independant, Unaffiliated]  
-**Email:** [erbetal@hotmail.com]  
+**Email:** [causalinformationcompletion@gmail.com]  
 
-**Date:** January 15, 2026  
+**Date:** January 10, 2026  
 **Version:** 1.0.0  
 **arXiv:** [Pending submission]  
-**DOI:** [Pending publication]
 
 ---
 
