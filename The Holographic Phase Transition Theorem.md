@@ -7,7 +7,7 @@
 ## Author Information
 
 **Author:** [Michael Ricard]  
-**Affiliation:** [Independant, Unaffiliated]  
+**Affiliation:** [Independent Researcher]  
 **Email:** [causalinformationcompletion@gmail.com]  
 
 **Date:** January 10, 2026  
