@@ -1,7 +1,7 @@
 # PREDICTION: Holographic Phase Transition at KBC Void Boundary
 
 **Author:** [Michael Ricard]  
-https://github.com/erbetal-dotcom/The-Holographic-Phase-Transition-Theorem
+**https://github.com/erbetal-dotcom/The-Holographic-Phase-Transition-Theorem
 **Date of Prediction:** January 17, 2026  
 **Status:** ⏳ AWAITING EUCLID DR1 DATA (Expected Q2-Q3 2026)
 
