@@ -8,10 +8,7 @@ This repository contains Python scripts and markdown documentation exploring the
 
 ```text
 The-Holographic-Phase-Transition-Theorem/
-├── CIC-GR Canonical Theorem Sheet.md    # Canonical theorem derivations and explanations
-├── Cic_GR_DeltaSigma_Toymodel.py        # Python toy model for ΔΣ phase transition simulations
+
 ├── The Holographic Phase Transition Theorem.md # Main project description and theorem exposition
-├── cicgr_early_universe_snap.md         # Notes and early-universe phase snap explanation
-├── cicgr_early_universe_snap.py         # Python simulation of early-universe phase snap
 ├── LICENSE                              # MIT License
 ├── CITATION.md                          # CITATION
